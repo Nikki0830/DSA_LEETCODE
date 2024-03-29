@@ -1,4 +1,4 @@
-//find duplicates from an sorted array
+//find duplicates from a sorted array
 var removeDuplicates = function (nums) {
   let i = nums.length;
 
