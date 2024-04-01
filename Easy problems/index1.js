@@ -20,6 +20,7 @@ var twoSum = function (nums, target) {
       } else {
           right--; // Move right pointer to the left
       }
+      //
   }
 
   // If no solution found
